@@ -5,7 +5,7 @@ import asyncio
 from ably import AblyRest
 import web
 
-from os import ABLY_API_KEY
+from local_os import ABLY_API_KEY
 
 # locally change to your ably API KAY
 apiKey = ABLY_API_KEY
