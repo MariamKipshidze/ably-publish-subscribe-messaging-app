@@ -1,0 +1,6 @@
+os.py
+
+# virtualenv
+.venv
+venv/
+ENV/
